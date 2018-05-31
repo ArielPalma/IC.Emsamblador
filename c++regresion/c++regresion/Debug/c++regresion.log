@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\proyectos ac\c++regresion\c++regresion\source.cpp(29): warning C4244: '=': conversión de 'long double' a 'int'; posible pérdida de datos
+d:\proyectos ac\c++regresion\c++regresion\source.cpp(54): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+d:\proyectos ac\c++regresion\c++regresion\source.cpp(55): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  c++regresion.vcxproj -> D:\proyectos ac\c++regresion\Debug\c++regresion.exe
+  c++regresion.vcxproj -> D:\proyectos ac\c++regresion\Debug\c++regresion.pdb (Partial PDB)
