@@ -1,0 +1,8 @@
+﻿  SEE.cpp
+d:\proyectos ac\see\see\see.cpp(29): warning C4244: '=': conversión de 'long double' a 'int'; posible pérdida de datos
+d:\proyectos ac\see\see\see.cpp(54): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+d:\proyectos ac\see\see\see.cpp(55): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+d:\proyectos ac\see\see\see.cpp(113): warning C4244: '+=': conversión de 'float' a 'long'; posible pérdida de datos
+d:\proyectos ac\see\see\see.cpp(116): warning C4244: 'return': conversión de 'long' a 'float'; posible pérdida de datos
+  SEE.vcxproj -> D:\proyectos ac\SEE\Debug\SEE.exe
+  SEE.vcxproj -> D:\proyectos ac\SEE\Debug\SEE.pdb (Partial PDB)
